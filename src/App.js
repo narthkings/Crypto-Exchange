@@ -10,7 +10,7 @@ const App = () => {
         <Route exact path="/">
           <div className="relative container mx-auto px-4">
             <HomePage />
-          </div>
+          </div> 
         </Route>
 
         <Route exact path="/CryptoDetails/:id">
